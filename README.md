@@ -1,6 +1,6 @@
-# circRNA-m6A Deep Learning Analysis
+# TCIEm6A
 
-We present here TCIEm6A for “translatable circRNAs identification and editing via m6A modification”. For the first time, we explored different strategies for encoding sub-molecular geographic information of translation-enhancing elements on circRNAs, from which a prediction framework was built upon a hybrid deep learning architectures combining Transformer, recurrent neural network, and LSTM-attention. 
+We present  TCIEm6A, the first deep learning framework for “translatable circRNAs identification and editing via m6A modification” at base resolution. For the first time, we explored different strategies for encoding the sub-molecular topological genomic contexts of translation-enhancing elements on circRNA transcripts, building a prediction framework upon a hybrid architecture combining Transformer, recurrent neural network, and LSTM-attention.
 ### System
 - Linux / macOS / Windows (WSL recommended)
 - Python ≥ 3.7
